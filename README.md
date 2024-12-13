@@ -1,6 +1,6 @@
 # Digited
 
-## Fonctionnement
+## Fonctionnement
 
 Digited est un langage de programmation très similaire au Brainfuck. Cependant, comme son nom l'indique, les seuls caractères interprétés sont des chiffres (à l'exception des parenthèses) Le Digited se déplace de case en case dans ce qui est appelé le `buffer`. La position actuelle dans le `buffer` se nomme le `cursor`.
 
